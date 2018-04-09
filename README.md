@@ -1,0 +1,2 @@
+# Prolog
+Base del conocimiento 
